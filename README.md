@@ -21,23 +21,23 @@ Here are some ideas to get you started:
 
 
 
-## Contact
+## Contact 📫
  
 - Email : sueshoo595959@gmail.com
 - Blog : https://blog.naver.com/smile_59
 - Github : https://github.com/suekim59
 
-## Work Experience
+## Work Experience 👯
 
 - Worked as a *Backend Developer* at Stuck On Inc. 
-  : - Building an app for delivery and in-store menus
+    - Building an app for delivery and in-store menus
     - Spring boot, Java, Gradle, Mybatis, Mysql, Godaddy
     
 - Worked as a *Backend Developer* at Studio Machete
-  : - Building an game app
+    - Building an game app
     - Spring boot, Kotlin, Gradle, Mybatis, MariaDB, AWS
 - Worked as a *Strategist* and *Performance Analyst* at UM
-   : - Market Trends research, Competitors research, Target Research
+     - Market Trends research, Competitors research, Target Research
      - Media planning for Coca-Cola
 
 <!--
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     + HTML5,CSS,JS, Java
     + Android Studio
 
-* ****DevOps***
+* ***DevOps***
     + Mysql, MariaDB (*SQLD 자격증 보유*)
     
 * ***Collaboration*** 

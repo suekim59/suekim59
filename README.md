@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 >
 -->
-## Skills
+## Skills ⚡
 * ***Backend***
     - Java, Kotlin, JS
     - Spring Boot, Spring MVC, Spring Data JPA

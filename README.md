@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ## _The Last Markdown Editor, Ever_
 
 ## Tech Stack 
-최소한 한 번 이상 사용해 본 기술스택
-That I've used at least once
+>최소한 한 번 이상 사용해 본 기술스택
+>That I've used at least once
+>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>

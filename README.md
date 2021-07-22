@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 김수정 Sue Kim 👋
 - 🔭 I’m currently working on building android apps.
-- 🌱 I’m currently learning Node.js & Algorithm.
-- 😄 I'm currently taking class of Harvard CS50. 
+- 🌱 I’m currently learning Node.js & React.js & Algorithm.
+<!-- - 😄 I'm currently taking class of Harvard CS50.  -->
 
 
 

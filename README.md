@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Blog : https://blog.naver.com/smile_59
 - Github : https://github.com/suekim59
 
-## Work Experience 👯
+## Work Experience 👯 
 
 - Worked as a *Backend Developer* at Stuck On Inc. 
     - Building an app for delivery and in-store menus
@@ -49,14 +49,15 @@ Here are some ideas to get you started:
 -->
 ## Skills ⚡
 * ***Backend***
-    - Java, Kotlin, JS
-    - Spring Boot, Spring MVC, Spring Data JPA
+    - Java, JS, Kotlin
+    - Spring Boot, Spring MVC, Spring Data JPA, Node.js
     - Gradle, Maven
     - Mybatis, Hibernate
     - IntelliJ, Visual Studio Code, Vim
 
 * ***Frontend***
-    + HTML5,CSS,JS, Java
+    + HTML5,CSS,JS,Java
+    + React.js
     + Android Studio
 
 * ***DevOps***

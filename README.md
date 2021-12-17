@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # 김수정 Sue Kim 👋
-- 🔭 I’m currently working on building android apps.
-- 🌱 I’m currently learning Node.js & React.js & Algorithm.
+- 🔭 I’m currently working on building blog website using Node.js & React.js.
+- 🌱 I’m currently stduying AWS to achieve AWS SAA-02.
+- 🌱 I’m currently learning TypeScript.
+
 <!-- - 😄 I'm currently taking class of Harvard CS50.  -->
 
 
@@ -24,18 +26,31 @@ Here are some ideas to get you started:
 ## Contact 📫
  
 - Email : sueshoo595959@gmail.com
-- Blog : https://blog.naver.com/smile_59
+- Blog : https://kkokkoma-dev.tistory.com/
 - Github : https://github.com/suekim59
 
 ## Work Experience 👯 
 
+- Working as a *full stack Developer* at Pengtai Korea.
+    - Developing data management platform(DMP) for Samsung Electronics.
+    - PHP, Python, Vue.js, Mysql, Redis
+    - Github
+    - AWS Lightsail
+    - Linux, shell, Vim
+
 - Worked as a *Backend Developer* at Stuck On Inc. 
-    - Building an app for delivery and in-store menus
-    - Spring boot, Java, Gradle, Mybatis, Mysql, Godaddy
+    - Built a prototype of an app for delivery and in-store menus
+    - Spring boot, Java, Node.js, Gradle, Mybatis, Mysql, 
+    - Jira, Slack, Github
+    - Godaddy, Heroku
     
 - Worked as a *Backend Developer* at Studio Machete
-    - Building an game app
-    - Spring boot, Kotlin, Gradle, Mybatis, MariaDB, AWS
+    - Built an game app
+    - Spring boot, Kotlin, Gradle, Mybatis, MariaDB
+    - Trello, Github
+    - AWS
+    - Linux
+     
 - Worked as a *Strategist* and *Performance Analyst* at UM
      - Market Trends research, Competitors research, Target Research
      - Media planning for Coca-Cola
@@ -49,28 +64,28 @@ Here are some ideas to get you started:
 -->
 ## Skills ⚡
 * ***Backend***
-    - Java, JS, Kotlin
-    - Spring Boot, Spring MVC, Spring Data JPA, Node.js
+    - Java, JavaScript(ES6), PHP, Kotlin
+    - Spring Boot, Spring MVC, Spring Data JPA, Node.js, Slim
     - Gradle, Maven
     - Mybatis, Hibernate
-    - IntelliJ, Visual Studio Code, Vim
+    - jest, phpunit 
+    - Visual Studio Code, Vim, IntelliJ
 
 * ***Frontend***
-    + HTML5,CSS,JS,Java
-    + React.js
+    + HTML5,CSS,JavaScript,Java
+    + React.js, Vue.js
     + Android Studio
 
 * ***DevOps***
-    + Mysql, MariaDB (*SQLD 자격증 보유*)
+    + Mysql, MariaDB, MongoDB (*SQLD 자격증 보유*)
+    + AWS
     
 * ***Collaboration*** 
     + Github
     + Jira, Slack, Trello
 
-* **Tech Stacks** *that I've used at least once*
-    + Python
-    + Node.js
+* **Other Tech Stacks** *that I've used at least once*
     + AngularJs
     + PostgreSQL
-    + C
+    + TypeScript
 

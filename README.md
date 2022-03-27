@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # 김수정 Sue Kim 👋
-- 🔭 I’m currently working on building blog website using Node.js & React.js.
-- 🌱 I’m currently stduying AWS to achieve AWS SAA-02.
-- 🌱 I’m currently learning TypeScript.
+- 😄 I’m currently working as a developer at Pentai Korea mainly using PHP and Python
+<!-- - 🌱 I’m currently studying and working on projects using Node.js & React.js. -->
+<!-- - 🌱 I’m currently stduying AWS to achieve AWS SAA-02.  -->
+- 🌱 I’m currently learning TypeScript(Nest.js).
+- 👯 I'm leading a study group 'Impact Career' for learning and working on projects using Node.js & React.js
 
 <!-- - 😄 I'm currently taking class of Harvard CS50.  -->
-
 
 
 
@@ -31,16 +32,17 @@ Here are some ideas to get you started:
 
 ## Work Experience 👯 
 
-- Working as a *full stack Developer* at Pengtai Korea.
+- Working as a Developer at Pengtai Korea.
     - Developing data management platform(DMP) for Samsung Electronics.
+    - Developing advertising solutions for system automation 
     - PHP, Python, Vue.js, Mysql, Redis
     - Github
     - AWS Lightsail
-    - Linux, shell, Vim
+    - Linux, shell, Vim, Crontab
 
 - Worked as a *Backend Developer* at Stuck On Inc. 
     - Built a prototype of an app for delivery and in-store menus
-    - Spring boot, Java, Node.js, Gradle, Mybatis, Mysql, 
+    - Spring boot, Java, Gradle, Mybatis, Mysql
     - Jira, Slack, Github
     - Godaddy, Heroku
     
@@ -62,10 +64,31 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 >
 -->
+## Projects & Study :book:
+* Share & Inspire Lab 
+   - 2021.05 ~ 2021.08
+   - Trello clone project
+   - React.js & Node.js & express
+
+* Pengtai Study 
+    - 2021.10 ~
+    - started study with co-workers
+    - Reacts.js & Nest.js
+    - Working on a project developing app like Ubereats
+
+* Impact Career 
+    - 2021.12 ~
+    - Team leader
+    - React.js & Node.js & express & MongoDB & PostgresDB
+    - Worked on boiler plate using React.js & Node.js
+    - Developed personal blog deployed using Heroku
+    - Working on a project developing movie website
+
+
 ## Skills ⚡
 * ***Backend***
     - Java, JavaScript(ES6), PHP, Kotlin
-    - Spring Boot, Spring MVC, Spring Data JPA, Node.js, Slim
+    - Spring Boot, Spring MVC, Node.js, Nest.js, Slim
     - Gradle, Maven
     - Mybatis, Hibernate
     - jest, phpunit 
@@ -77,15 +100,12 @@ Here are some ideas to get you started:
     + Android Studio
 
 * ***DevOps***
-    + Mysql, MariaDB, MongoDB (*SQLD 자격증 보유*)
-    + AWS
+    + Mysql, MariaDB, MongoDB, PostgresSQL(*SQLD 자격증 보유*)
+    + Redis
+    + AWS, Heroku
     
 * ***Collaboration*** 
     + Github
     + Jira, Slack, Trello
 
-* **Other Tech Stacks** *that I've used at least once*
-    + AngularJs
-    + PostgreSQL
-    + TypeScript
 

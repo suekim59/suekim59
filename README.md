@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 * Pengtai Study 
     - 2021.10 ~
     - started study with co-workers
-    - Reacts.js & Nest.js
+    - TypeScript & Reacts.js & Nest.js
     - Working on a project developing app like Ubereats
 
 * Impact Career 

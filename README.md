@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 I’m currently working as a developer at Rakuten Symphony Korea
 <!-- - 🌱 I’m currently studying and working on projects using Node.js & React.js. -->
 - 🌱 I’m currently stduying AWS to achieve AWS SAA-02.
-<!- 🌱 I’m currently learning TypeScript(Nest.js).-->
-<!- 👯 I'm leading a study group 'Impact Career' for learning and working on projects using Node.js & React.js-->
+<!-- 🌱 I’m currently learning TypeScript(Nest.js).-->
+<!-- 👯 I'm leading a study group 'Impact Career' for learning and working on projects using Node.js & React.js-->
 
 <!-- - 😄 I'm currently taking class of Harvard CS50.  -->
 

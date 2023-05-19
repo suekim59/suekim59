@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 김수정 Sue Kim 👋
-- 😄 I’m currently working as a developer at Rakuten Symphony Korea
+- 😄 I’m currently working as a developer at Cafe24 in Korea
 <!-- - 🌱 I’m currently studying and working on projects using Node.js & React.js. -->
 - 🌱 I’m currently stduying AWS to achieve AWS SAA-02.
 <!-- 🌱 I’m currently learning TypeScript(Nest.js).-->
@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 - Github : https://github.com/suekim59
 
 ## Work Experience 👯 
+- Working as a full stack developer at Cafe24 Korea
+   - Python, PHP, JS
+   - Gitlab
 
-- Working as a *Backend engineer* at Rakuten Symphony Korea
+- Worked as a *Backend engineer* at Rakuten Symphony Korea
     - Developing in-app purchase server using Node.js, express, DynamoDb, AWS Lambda
     - Node.js, AWS, Redis, Express, Mysql
     - Bitbucket

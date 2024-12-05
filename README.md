@@ -32,7 +32,12 @@ Here are some ideas to get you started:
 - Github : https://github.com/suekim59
 
 ## Work Experience 👯 
-- Working as a full stack developer at Cafe24 Korea
+- Working as a software enginner at Forefront Technologies
+   - Java(Spring boot, Spring JPA, Spring Security), Postgres
+   - AWS (S3, Textract, Comprehend, Cloudfront, etc.)
+   - SVN, Jira
+     
+- Worked as a full stack developer at Cafe24 Korea
    - Python, PHP, JS
    - Gitlab
 
@@ -75,6 +80,11 @@ Here are some ideas to get you started:
 >
 -->
 ## Projects & Study :book:
+* Remote Contact Digital Signage | Python, OCI, NoSQL
+   - 2023.03 ~ 2023.03 
+   - Achievements : 1st place at the Zoom sdk challenge, 2nd place for Oracle micro services challenge, 1st place overall in DeveloperWeek2023 Hackathon at Oakland
+   - Developed rules to trigger specific functions and implemented APIs for text analysis.
+  
 * Share & Inspire Lab 
    - 2021.05 ~ 2021.08
    - Trello clone project
@@ -91,24 +101,24 @@ Here are some ideas to get you started:
 
 ## Skills ⚡
 * ***Backend***
-    - Java, JavaScript(ES6), PHP, Kotlin
-    - Spring Boot, Node.js, Slim
-    - Gradle, Maven
-    - Mybatis, Hibernate
-    <!- jest, phpunit--> 
-    - Visual Studio Code, Vim, IntelliJ
+    + Java, JavaScript(ES6), Python, PHP, Kotlin
+    + Spring Boot, Spring JPA, Node.js, Express.js, Flask, Slim
+    + Gradle, Maven
+    + Mybatis, Hibernate
+    <!- jest, phpunit-->
+    + Mysql, MariaDB, MongoDB, PostgresSQL(*SQLD 자격증 보유*)
+    + Redis
 
 * ***Frontend***
     + HTML5,CSS,JavaScript,Java
     + React.js
 
 * ***DevOps***
-    + Mysql, MariaDB, MongoDB, PostgresSQL(*SQLD 자격증 보유*)
-    + Redis
     + AWS, Heroku
+    + Docker, Kubernetes
     
 * ***Collaboration*** 
-    + Github
+    + Github, SVN
     + Jira, Slack, Trello
 
 

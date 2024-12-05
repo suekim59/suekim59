@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # 김수정 Sue Kim 👋
-- 😄 I’m currently working as a developer at Cafe24 in Korea
+- 😄 I’m currently working as a software engineer at Forefront Technologies.
+- I am participating a project utilizing AI engines. 
 <!-- - 🌱 I’m currently studying and working on projects using Node.js & React.js. -->
-- 🌱 I’m currently stduying AWS to achieve AWS SAA-02.
+<!-- - 🌱 I’m currently stduying AWS to achieve AWS SAA-02. -->
 <!-- 🌱 I’m currently learning TypeScript(Nest.js).-->
 <!-- 👯 I'm leading a study group 'Impact Career' for learning and working on projects using Node.js & React.js-->
 
